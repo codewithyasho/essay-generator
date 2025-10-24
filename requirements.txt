@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langchain-groq
+langchain-core
+langchain-ollama
+st-copy-to-clipboard
